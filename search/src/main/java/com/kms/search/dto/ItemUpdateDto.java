@@ -12,8 +12,8 @@ public class ItemUpdateDto {
 	}
 
 	public ItemUpdateDto(String itemName, Integer price, Integer quantity) {
-		this.itemName = itemName;
-		this.price = price;
-		this.quantity = quantity;
+		this.itemName 	= itemName;
+		this.price 		= price;
+		this.quantity 	= quantity;
 	}
 }

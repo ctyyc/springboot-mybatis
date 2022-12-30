@@ -7,8 +7,6 @@ import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 
 import com.kms.search.domain.Item;
-//import com.kms.search.repository.ItemSearchCond;
-//import com.kms.search.repository.ItemUpdateDto;
 import com.kms.search.dto.ItemSearchCond;
 import com.kms.search.dto.ItemUpdateDto;
 
